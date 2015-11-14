@@ -18,7 +18,7 @@ public class CITest {
 
 	@Test
 	public void test() {
-		assertEquals("Hi ITM13", myApp.getHello());
+		assertEquals("Hi ITM13!", myApp.getHello());
 	}
 
 }
